@@ -1,4 +1,3 @@
-En eller anden ændring Igen!!!
 This file is like totally differen than the one in the master branch.
 So what happens if i try to merch them
 not error logs.
